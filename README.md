@@ -1,5 +1,5 @@
 # Work Log System
-## Built For [@Keploy](Keploy.io)
+## Built For [@Keploy](https://github.com/keploy/keploy)
 
 _PS: star [this](https://github.com/keploy/keploy) repository to show support to them!_
 
